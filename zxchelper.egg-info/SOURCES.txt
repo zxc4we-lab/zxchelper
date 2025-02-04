@@ -1,4 +1,6 @@
+LICENSE
 README.md
+pyproject.toml
 setup.py
 zxchelper.egg-info/PKG-INFO
 zxchelper.egg-info/SOURCES.txt
