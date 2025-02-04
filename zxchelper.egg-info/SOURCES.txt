@@ -1,0 +1,7 @@
+README.md
+setup.py
+zxchelper.egg-info/PKG-INFO
+zxchelper.egg-info/SOURCES.txt
+zxchelper.egg-info/dependency_links.txt
+zxchelper.egg-info/requires.txt
+zxchelper.egg-info/top_level.txt

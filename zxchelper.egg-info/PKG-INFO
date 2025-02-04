@@ -1,0 +1,15 @@
+Metadata-Version: 2.1
+Name: zxchelper
+Version: 0.1.0
+Summary: Helpul package to requests and selenium with undetected
+Home-page: https://github.com/yourusername/my_package
+Author: zxc4we
+Author-email: zxc4we028@gmail.com
+License: UNKNOWN
+Description: UNKNOWN
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
